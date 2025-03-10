@@ -8,5 +8,6 @@
  - Imagens
  - Preparar Instância e Banco
  - Escala Horizontal
+ - Disponibilizando projeto Laravel com Docker
 
 ☑️ Curso feito com o objetivo de se aprofundar em AWS EC2, procurando entender sobre cada conceitos Escala e Alta Disponibilidade, seguindo as melhores práticas.
